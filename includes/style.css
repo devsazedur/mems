@@ -12,9 +12,9 @@ body {
   background-color: #99cdff;
 }
 .container{
-    width: 100%;
+    width: 100vh;
+  height: 100vh
     overflow: hidden;
-    margin-top:10px;
 }
 h1 {
   font-size: 180px;
